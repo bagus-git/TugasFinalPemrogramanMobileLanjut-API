@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tabunganku</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_required">Harap Masukkan Email</string>
+    <string name="password_required">Harap Masukkan Password</string>
+    <string name="nama_pengeluaran">Nama Pengeluaran</string>
+    <string name="jumlah_pengeluaran">Jumlah Pengeluaran</string>
+    <string name="tanggal_bulan_tahun">Tanggal - Bulan - Tahun</string>
+    <string name="catatan_pengeluaran">Catatan Pengeluaran</string>
+    <string name="bukti_struk_belanja">Bukti Struk Belanja</string>
+</resources>

@@ -1,0 +1,157 @@
+CRITICAL - 2021-06-09 20:36:13 --> Cannot declare class App\Controllers\Celengankus, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-09 20:36:16 --> Cannot declare class App\Controllers\Celengankus, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2021-06-09 21:00:59 --> Unknown column 'username' in 'field list'
+ERROR - 2021-06-09 21:03:35 --> Unknown column 'username' in 'field list'
+ERROR - 2021-06-09 21:04:25 --> Unknown column 'username' in 'field list'
+ERROR - 2021-06-09 21:04:38 --> Unknown column 'username' in 'field list'
+ERROR - 2021-06-09 21:05:11 --> Unknown column 'username' in 'field list'
+ERROR - 2021-06-09 21:06:30 --> Unknown column 'username' in 'field list'
+ERROR - 2021-06-09 21:10:19 --> Unknown column 'username' in 'field list'
+CRITICAL - 2021-06-09 21:12:30 --> There is no data to insert.
+#0 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\tabunganku\app\Controllers\celenganku.php(41): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Celenganku->create()
+#5 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Celenganku))
+#6 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\tabunganku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-06-09 21:12:34 --> There is no data to insert.
+#0 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\BaseModel.php(1668): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\BaseModel.php(735): CodeIgniter\BaseModel->transformDataToArray(NULL, 'insert')
+#2 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(NULL, true)
+#3 C:\xampp\htdocs\tabunganku\app\Controllers\celenganku.php(41): CodeIgniter\Model->insert(NULL)
+#4 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Celenganku->create()
+#5 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Celenganku))
+#6 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\tabunganku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+ERROR - 2021-06-09 21:17:21 --> Unknown column 'username' in 'field list'
+CRITICAL - 2021-06-09 21:38:04 --> Cannot declare class App\Controllers\Riwayaat, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-09 21:38:10 --> Cannot declare class App\Controllers\Riwayaat, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-09 21:38:12 --> Cannot declare class App\Controllers\Riwayaat, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-09 21:38:48 --> Cannot declare class App\Controllers\Riwayaat, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-09 21:38:50 --> Cannot declare class App\Controllers\Riwayaat, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-09 21:40:29 --> Cannot declare class App\Controllers\Riwayaat, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-09 21:40:31 --> Cannot declare class App\Controllers\Riwayaat, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-09 21:49:42 --> Cannot declare class App\Controllers\Riwayaat, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-09 21:50:06 --> Cannot declare class App\Controllers\Riwayaat, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-09 21:50:17 --> Cannot declare class App\Controllers\Riwayaat, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-09 21:50:25 --> Cannot declare class App\Controllers\Riwayaat, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-06-09 21:54:42 --> There is no data to insert.
+#0 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\BaseModel.php(751): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\tabunganku\app\Controllers\riwayatku.php(41): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Riwayatku->create()
+#4 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Riwayatku))
+#5 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\tabunganku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-06-09 21:54:58 --> There is no data to insert.
+#0 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\BaseModel.php(751): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\tabunganku\app\Controllers\riwayatku.php(41): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Riwayatku->create()
+#4 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Riwayatku))
+#5 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\tabunganku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-06-09 21:55:13 --> There is no data to insert.
+#0 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\BaseModel.php(751): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\tabunganku\app\Controllers\riwayatku.php(41): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Riwayatku->create()
+#4 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Riwayatku))
+#5 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\tabunganku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-06-09 21:56:34 --> There is no data to insert.
+#0 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\BaseModel.php(751): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\tabunganku\app\Controllers\riwayatku.php(41): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Riwayatku->create()
+#4 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Riwayatku))
+#5 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\tabunganku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-06-09 21:56:37 --> There is no data to insert.
+#0 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\BaseModel.php(751): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\tabunganku\app\Controllers\riwayatku.php(41): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Riwayatku->create()
+#4 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Riwayatku))
+#5 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\tabunganku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-06-09 21:56:38 --> There is no data to insert.
+#0 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\BaseModel.php(751): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\tabunganku\app\Controllers\riwayatku.php(41): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Riwayatku->create()
+#4 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Riwayatku))
+#5 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\tabunganku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-06-09 21:56:38 --> There is no data to insert.
+#0 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\BaseModel.php(751): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\tabunganku\app\Controllers\riwayatku.php(41): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Riwayatku->create()
+#4 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Riwayatku))
+#5 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\tabunganku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-06-09 21:56:54 --> There is no data to insert.
+#0 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\BaseModel.php(751): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Model.php(686): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\tabunganku\app\Controllers\riwayatku.php(41): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Riwayatku->create()
+#4 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Riwayatku))
+#5 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\tabunganku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2021-06-09 22:02:00 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2021-06-09 22:02:00 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Riwayatku->show('3')
+#1 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Riwayatku))
+#2 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\tabunganku\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\tabunganku\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#5 {main}
